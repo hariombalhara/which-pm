@@ -1,0 +1,21 @@
+{
+  "name": "which-pm-es",
+  "version": "0.1.1",
+  "description": "Find out which package manager ran a NodeJS script?",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "which-pm-test": "node which-pm-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariombalhara/which-pm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariombalhara/which-pm/issues"
+  },
+  "homepage": "https://github.com/hariombalhara/which-pm#readme"
+}
